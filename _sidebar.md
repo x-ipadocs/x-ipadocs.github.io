@@ -1,0 +1,7 @@
+- 网站基础
+  - [快速食用指南](/docs/quick-started/pagew.md)
+- 安装软件
+  - [为 iOS 或 iPadOS 安装软件](/docs/install-software/apple-device.md)
+  - [为 Android 或 WSA 安装软件](/docs/install-software/android-or-WSA-device.md)
+  - 为 Windows 安装软件
+    - [对于 Win32 和 MSI](/docs/install-software/for-win32-and-msi.md)
